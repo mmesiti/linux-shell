@@ -21,7 +21,7 @@ project = "Linux shell tutorial"
 copyright = "2021, Aalto Science-IT"
 author = "Aalto Science-IT"
 github_user = "mmesiti"
-github_repo_name = ""  # auto-detected from dirname if blank
+github_repo_name = "linux-shell"  # auto-detected from dirname if blank
 github_version = "main"
 conf_py_path = "/content/"  # with leading and trailing slash
 
